@@ -1,0 +1,5 @@
+C:\Users\hg8352\OneDrive - LYSTKOM\Programering\hämta innehåll från chcuk norris api\chuck norris\obj\Debug\net8.0\chuck norris.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hg8352\OneDrive - LYSTKOM\Programering\hämta innehåll från chcuk norris api\chuck norris\obj\Debug\net8.0\chuck norris.AssemblyInfoInputs.cache
+C:\Users\hg8352\OneDrive - LYSTKOM\Programering\hämta innehåll från chcuk norris api\chuck norris\obj\Debug\net8.0\chuck norris.AssemblyInfo.cs
+C:\Users\hg8352\OneDrive - LYSTKOM\Programering\hämta innehåll från chcuk norris api\chuck norris\obj\Debug\net8.0\chuck norris.csproj.CoreCompileInputs.cache
+C:\Users\hg8352\OneDrive - LYSTKOM\Programering\hämta innehåll från chcuk norris api\chuck norris\obj\Debug\net8.0\chuck norris.sourcelink.json
