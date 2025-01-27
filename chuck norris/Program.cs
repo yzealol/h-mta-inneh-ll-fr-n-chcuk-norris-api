@@ -1,7 +1,7 @@
 ﻿using System.Net.Http;
 
 class Program{
-static async void GetJoke(){
+static async Task Main(){
 using(HttpClient goblin = new HttpClient()){
 goblin.BaseAddress = new Uri("https://api.chucknorris.io");
 try{
@@ -15,8 +15,6 @@ Console.WriteLine(e.Message);
 }
 }
 }
-static void Main(){
-GetJoke();
-}
+
 }
 
