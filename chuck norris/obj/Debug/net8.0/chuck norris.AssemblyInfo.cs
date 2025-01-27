@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("chuck norris")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f1f927536b91f7963c92604d4e3550e4b66058d1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a0a3f36b11e8e28b91687823c2a0fadbaef76c01")]
 [assembly: System.Reflection.AssemblyProductAttribute("chuck norris")]
 [assembly: System.Reflection.AssemblyTitleAttribute("chuck norris")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

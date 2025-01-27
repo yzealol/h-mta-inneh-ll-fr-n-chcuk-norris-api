@@ -3,3 +3,13 @@ C:\Users\hg8352\OneDrive - LYSTKOM\Programering\hämta innehåll från chcuk nor
 C:\Users\hg8352\OneDrive - LYSTKOM\Programering\hämta innehåll från chcuk norris api\chuck norris\obj\Debug\net8.0\chuck norris.AssemblyInfo.cs
 C:\Users\hg8352\OneDrive - LYSTKOM\Programering\hämta innehåll från chcuk norris api\chuck norris\obj\Debug\net8.0\chuck norris.csproj.CoreCompileInputs.cache
 C:\Users\hg8352\OneDrive - LYSTKOM\Programering\hämta innehåll från chcuk norris api\chuck norris\obj\Debug\net8.0\chuck norris.sourcelink.json
+C:\Users\hg8352\OneDrive - LYSTKOM\Programering\hämta innehåll från chcuk norris api\chuck norris\bin\Debug\net8.0\chuck norris.exe
+C:\Users\hg8352\OneDrive - LYSTKOM\Programering\hämta innehåll från chcuk norris api\chuck norris\bin\Debug\net8.0\chuck norris.deps.json
+C:\Users\hg8352\OneDrive - LYSTKOM\Programering\hämta innehåll från chcuk norris api\chuck norris\bin\Debug\net8.0\chuck norris.runtimeconfig.json
+C:\Users\hg8352\OneDrive - LYSTKOM\Programering\hämta innehåll från chcuk norris api\chuck norris\bin\Debug\net8.0\chuck norris.dll
+C:\Users\hg8352\OneDrive - LYSTKOM\Programering\hämta innehåll från chcuk norris api\chuck norris\bin\Debug\net8.0\chuck norris.pdb
+C:\Users\hg8352\OneDrive - LYSTKOM\Programering\hämta innehåll från chcuk norris api\chuck norris\obj\Debug\net8.0\chuck norris.dll
+C:\Users\hg8352\OneDrive - LYSTKOM\Programering\hämta innehåll från chcuk norris api\chuck norris\obj\Debug\net8.0\refint\chuck norris.dll
+C:\Users\hg8352\OneDrive - LYSTKOM\Programering\hämta innehåll från chcuk norris api\chuck norris\obj\Debug\net8.0\chuck norris.pdb
+C:\Users\hg8352\OneDrive - LYSTKOM\Programering\hämta innehåll från chcuk norris api\chuck norris\obj\Debug\net8.0\chuck norris.genruntimeconfig.cache
+C:\Users\hg8352\OneDrive - LYSTKOM\Programering\hämta innehåll från chcuk norris api\chuck norris\obj\Debug\net8.0\ref\chuck norris.dll
